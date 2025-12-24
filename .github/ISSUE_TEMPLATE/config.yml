@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General Discussion
+    url: https://github.com/iamkucuk/telegram-mcp-server-feedback/discussions
+    about: For questions, ideas, and general feedback
