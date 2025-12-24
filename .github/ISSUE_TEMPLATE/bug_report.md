@@ -20,10 +20,5 @@ What you expected to happen.
 ## Actual Behavior
 What actually happened.
 
-## Environment
-- OS: 
-- Python version: 
-- telegram-mcp-server version: 
-
 ## Additional Context
 Any other relevant information (logs, screenshots, etc.)
